@@ -42,9 +42,3 @@
 .slide:nth-of-type(3) {
  background: url(https://avatars.mds.yandex.net/get-altay/200322/2a0000015b17976dff73072c9bb69acd99e1/orig);
 }
-.slide:nth-of-type(4) {
- background: blue;
-}
-.slide:nth-of-type(5) {
- background: purple;
-}
